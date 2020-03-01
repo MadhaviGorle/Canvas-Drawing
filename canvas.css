@@ -1,0 +1,42 @@
+body {
+    background: white;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-family: roboto;
+  }
+  
+  .rectangle{
+    border: 1px black solid;
+    width: 500px;
+    height: 300px;
+  }
+  
+  .button{
+    padding: 10px;
+    font-size: 14px;
+    background-color: #3faaf8;
+    border-radius: 10px;
+    color: white;
+    margin-top: 20px;
+  }
+  
+
+  
+ 
+  
+
+  
+ 
+  
+ 
+
+  
+ 
+  
+  
+  
+  
+  
